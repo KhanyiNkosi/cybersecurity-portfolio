@@ -1,4 +1,4 @@
-# 🛡️ Incident Detection & Response Case Study: Unauthorized Access Investigation
+#Incident Detection & Response Case Study: Unauthorized Access Investigation
 
 **Author:** Khanyisile Natashie Nkosi  
 **Role:** Cybersecurity Analyst (Simulation)  
@@ -6,14 +6,14 @@
 
 ---
 
-## 📌 Executive Summary
+##Executive Summary
 In this simulated incident, an organization’s network monitoring system flagged multiple unauthorized login attempts originating from an external IP address, followed by successful access to a sensitive database server. 
 
 As the Security Analyst, I investigated the alerts, analyzed the authentication logs, identified the compromised account, executed containment procedures, and provided recommendations to prevent future incidents.
 
 ---
 
-## 🕵️ phase 1: Detection & Analysis
+##phase 1: Detection & Analysis
 
 ### 1. The Alert
 The Security Operations Center (SOC) triggered a high-severity alert:
