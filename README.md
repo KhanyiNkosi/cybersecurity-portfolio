@@ -51,7 +51,7 @@ With a strong foundation in operations, risk management, and administrative comp
 ### 3. [Secure Full-Stack Application: Family Task Manager](https://github.com/[YourUsername]/Family-Task-Manager)
 * **Description:** A live SaaS application featuring strict Role-Based Access Control (RBAC), secure user authentication, and data isolation.
 * **Skills Demonstrated:** Next.js, React, Supabase, Row-Level Security (RLS) policies, Principle of Least Privilege.
-* [👉 View Repository](https://github.com/KhanyiNkosi/Family-Task-Manager)
+* [👉 View Repository](./projects/family-task-manager-security.md)
 
 ---
 
